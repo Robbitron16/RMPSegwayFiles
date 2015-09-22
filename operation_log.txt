@@ -1,0 +1,42 @@
+[29228:30900:0922/154039:VERBOSE1:crash_service_main.cc(68)] Session start. cmdline is [--reporter-url=http://54.249.141.255:1127/post --application-name=Atom --v=1]
+[29228:30900:0922/154039:VERBOSE1:crash_service.cc(142)] window handle is 008C09AE
+[29228:30900:0922/154039:VERBOSE1:crash_service.cc(290)] pipe name is \\.\pipe\Atom Crash Service
+dumps at 
+[29228:30900:0922/154039:VERBOSE1:crash_service.cc(294)] checkpoint is crash_checkpoint.txt
+server is http://54.249.141.255:1127/post
+maximum 128 reports/day
+reporter is electron-crash-service
+[29228:30900:0922/154039:VERBOSE1:crash_service_main.cc(84)] Ready to process crash requests
+[29228:30768:0922/154039:VERBOSE1:crash_service.cc(323)] client start. pid = 28528
+[29228:30768:0922/154041:VERBOSE1:crash_service.cc(323)] client start. pid = 31720
+[31396:31428:0922/154041:VERBOSE1:crash_service_main.cc(68)] Session start. cmdline is [--reporter-url=http://54.249.141.255:1127/post --application-name=Atom --v=1]
+[31396:31428:0922/154041:VERBOSE1:crash_service.cc(142)] window handle is 00F0075A
+[31396:31428:0922/154041:VERBOSE1:crash_service.cc(290)] pipe name is \\.\pipe\Atom Crash Service
+dumps at 
+[31396:31428:0922/154041:VERBOSE1:crash_service.cc(294)] checkpoint is crash_checkpoint.txt
+server is http://54.249.141.255:1127/post
+maximum 128 reports/day
+reporter is electron-crash-service
+[31396:31428:0922/154041:ERROR:crash_service.cc(301)] could not start dumper
+[29228:30768:0922/154042:VERBOSE1:crash_service.cc(323)] client start. pid = 30528
+[22980:29128:0922/154042:VERBOSE1:crash_service_main.cc(68)] Session start. cmdline is [--reporter-url=http://54.249.141.255:1127/post --application-name=Atom --v=1]
+[22980:29128:0922/154042:VERBOSE1:crash_service.cc(142)] window handle is 010D0838
+[22980:29128:0922/154042:VERBOSE1:crash_service.cc(290)] pipe name is \\.\pipe\Atom Crash Service
+dumps at 
+[22980:29128:0922/154042:VERBOSE1:crash_service.cc(294)] checkpoint is crash_checkpoint.txt
+server is http://54.249.141.255:1127/post
+maximum 128 reports/day
+reporter is electron-crash-service
+[22980:29128:0922/154042:ERROR:crash_service.cc(301)] could not start dumper
+[29228:28416:0922/154042:VERBOSE1:crash_service.cc(331)] client end. pid = 30528
+[29228:30768:0922/154823:VERBOSE1:crash_service.cc(323)] client start. pid = 23956
+[29228:24988:0922/154823:VERBOSE1:crash_service.cc(331)] client end. pid = 23956
+[29228:24988:0922/154828:VERBOSE1:crash_service.cc(331)] client end. pid = 31720
+[29228:24988:0922/154828:VERBOSE1:crash_service.cc(331)] client end. pid = 28528
+[29228:24988:0922/154829:VERBOSE1:crash_service.cc(352)] zero clients. exiting
+[29228:30900:0922/154829:VERBOSE1:crash_service.cc(490)] session ending..
+[29228:30900:0922/154829:VERBOSE1:crash_service.cc(495)] clients connected :4
+clients terminated :4
+dumps serviced :0
+dumps reported :0
+[29228:30900:0922/154829:VERBOSE1:crash_service_main.cc(89)] Session end. return code is 0
